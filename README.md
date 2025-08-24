@@ -1,4 +1,6 @@
 Unified Calendar App
+
+
 🌟 Project Overview
 The Unified Calendar App is a mobile application designed to simplify schedule management by integrating multiple external calendar services into a single, cohesive view. In today's busy world, individuals often juggle events across various platforms like Google Calendar, Outlook, and personal local calendars. This fragmentation leads to missed appointments, double-bookings, and a general lack of clarity regarding one's commitments.
 
@@ -205,3 +207,4 @@ Create a new Pull Request.
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
